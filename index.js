@@ -61,3 +61,6 @@ user1.withdraw(1234, 300);
 //user2.withdraw(4321, 600);
 //user1.pinAllocation(1234, 500);
 
+1. dan //commit
+2. Scoala Informala //commit
+
