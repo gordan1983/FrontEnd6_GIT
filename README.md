@@ -1,2 +1,2 @@
 # FrontEnd6_GIT
-Test project for Group 6
+Test Project for Group 6 
