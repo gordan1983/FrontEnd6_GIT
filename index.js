@@ -63,5 +63,7 @@ user1.withdraw(1234, 300);
 
 1. dan //commit
 2. Scoala Informala //commit
+3. info1
+4. info2
 
 
